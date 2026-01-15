@@ -3592,6 +3592,7 @@ ul.footer-blog li {
   padding: 10px 20px;
   border-radius: 20px;
   cursor: pointer;
+  font-size: 12px;
   background-color: rgb(226, 226, 226);
 }
 .custom-control .fa {
