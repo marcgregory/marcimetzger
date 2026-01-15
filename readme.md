@@ -1,43 +1,4 @@
-Hello,
 
-thank you for purchusing GARO ESTATE Template. 
- 
-
-
-
-## PAGES INCLUDED ##
- 
-404.html
-blog-left.html
-blog-right.html
-blog.html
-change-password.html
-contact-2.html
-contact-3.html
-contact.html
-faq.html
-index-2.html
-index-3.html
-index-4.html
-index-5.html
-index.html
-properties-2.html
-properties-3.html
-properties.html
-property-1.html
-property-2.html
-property-3.html
-property.html
-readme.md
-register.html
-single-left.html
-single-right.html
-single.html
-submit-property.html
-user-profile.html
-user-properties.html
-
-**Plugins used in the template**
 
 - Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
 
@@ -115,4 +76,4 @@ ondrique, (suport@kimarotec.com)
 - Photos for demo purposes [IM FREE](http://www.imcreator.com/free)
 - Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
 - Font awesome - ([http://fontawesome.io/icons/](http://fontawesome.io/icons/))
-- icon-7-stroke - (http://themes-pixeden.com/font-demos/7-stroke/)
+- icon-7-stroke - (http://themes-pixede
